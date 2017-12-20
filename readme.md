@@ -1,7 +1,7 @@
 # Service for WeChat public account  
 ---
 
-![](img1.jpeg)
+![](img1.jpg)
 ## What the Service can do  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This service for WeChat official account can automaticly reply the request from public account's follower, and the request may be a word, sentence, picture and even a pice voice.
 ## What language the project uses
